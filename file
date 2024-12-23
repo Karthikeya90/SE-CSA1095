@@ -1,0 +1,2 @@
+NAME                        READY   STATUS             RESTARTS   AGE
+todo-app-7b8f8b8b8-2q8zq    0/1     ImagePullBackOff   0          2m
